@@ -5,7 +5,7 @@ Prueba: **DESARROLLADOR JR**
 
 Deadline: **1 día**
 
-Nombre: 
+Nombre: Elizabeth Garcia Boyzo
 
 ------
 ## Clona y crea tu repositorio para la evaluación ##
